@@ -1,21 +1,11 @@
 # vue-mcnc
 
-> A Vue.js project
+> Vue技术做的实验室网站
 
-## Build Setup
+## 相关技术
+1. Vue2
+2. VueRouter2
+3. Axios
+4. Sass
+5. ES6
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

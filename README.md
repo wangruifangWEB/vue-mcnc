@@ -1,6 +1,6 @@
 # vue-mcnc
 
-> Vue技术做的实验室网站
+> Vue技术做的实验室网站 [http://www.ycfeng.club/vue-mcnc](http://www.ycfeng.club/vue-mcnc)
 
 ## 相关技术
 1. Vue2

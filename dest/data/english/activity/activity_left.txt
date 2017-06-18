@@ -1,0 +1,25 @@
+{
+    "head": "Activities",
+    "items": [
+        {
+            "name": "Coming Professor",
+            "link": "/activity_en/laifang"
+        },
+        {
+            "name": "Academic Exchange",
+            "link": "/activity_en/xueshu"
+        },
+        {
+            "name": "Academic Conference",
+            "link": "/activity_en/guoji"
+        },
+        {
+            "name": "Dissertation Defense",
+            "link": "/activity_en/biye"
+        },
+        {
+            "name": "Activities in MCNC",
+            "link": "/activity_en/shiyan"
+        }
+    ]
+}

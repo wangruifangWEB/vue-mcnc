@@ -1,0 +1,46 @@
+{
+    "dairui": {
+        "content": "Assistant Professor Rui Dai is an Assistant Professor in the Department of Electrical Engineering and Computing Systems at University of Cincinnati. She received her BS in Electronics and Information Engineering and MS in Communications and Information Systems from Huazhong University of Science and Technology, Wuhan, China, in 2004 and 2007, respectively. She received her PhD degree in Electrical and Computer Engineering from Georgia Institute of Technology, Atlanta, GA, USA in 2011, under the supervision of Professor Ian. F. Akyildiz in the Broadband Wireless Networking Laboratory. She was a postdoctoral fellow at the Center for Assistive Technology and Environmental Access of Georgia Tech in 2012. More recently, she was an Assistant Professor at the Department of Computer Science at North Dakota State University. Her research interests include wireless sensor networks, sensor systems for healthcare, multimedia communications, and cyber-physical systems.",
+        "imgs": [
+            "dest/imgs/activity/戴锐_1.jpg",
+            "dest/imgs/activity/戴锐_2.jpg"
+        ]
+    },
+    "lishuoyan": {
+        "content": "Professor Bob Li received the BS degree from National Taiwan Univ in 1970 and the PhD degree from UC Berkeley in 1974, both in math. He taught applied math at MIT in 1974-76 and math, statistics and CS at Univ of Illinois, Chicago in 1976-79. After working on switching systems and theoretic research at Bell Labs/Bellcore for a decade, he joined CUHK as a chair professor in 1989. He now also serves as Co-director of Institute of Network Coding.Bob Li is a cofounder of the theory of network coding. The paper “Linear Network Coding” won the IEEE Information Theory Society Paper Award of Year 2005. His “martingale of patterns” (1980) engenders a research area with applications to genetics and other fields. The “algebraic switching fabric” adopted by the “Metro Switch” project of ITRI in Taiwan is derived from his book “Algebraic Switching Theory and Broadband Applications” (2001). He holds 32 US patents. He came to the lab and conmunicated with the students who worked in MCNC.",
+        "imgs": [
+            "dest/imgs/activity/李硕彦_1.jpg",
+            "dest/imgs/activity/李硕彦_2.jpg"
+        ]
+    },
+    "xionghongkai": {
+        "content": "Prof. Hongkai Xiong is currently a Full Professor in the Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU). Since he received Ph. D degree from SJTU in 2003, he has been with the Department of Electronic Engineering, SJTU. From Dec. 2007 to Dec. 2008, Dr. Xiong was a Research Scholar with the Department of Electrical and Computer Engineering, Carnegie Mellon University (CMU), PA, USA. From 2011 to 2012, he was a scientist with the Division of Biomedical Informatics at the University of California, San Diego (UCSD). He came to the lab and conmunicated with the students.",
+        "imgs": [
+            "dest/imgs/activity/熊洪凯.jpg"
+        ]
+    },
+    "mitra": {
+        "content": "Prof. Sanjit K. Mitra of University of California, Santa Barbara visited MCNC. He has published over 700 papers in the areas of analog and digital signal processing, and image processing.He has also authored and co-authored twelve books, and holds five patents. He came to the lab and made a presentation about digital signal processing. (2014.06)",
+        "imgs": [
+            "dest/imgs/activity/Mitra.jpg"
+        ]
+    },
+    "xiongzixiang": {
+        "content": "Prof. Zixiang Xiong of Texas A&M University has received an NSF Career Award in 1999, an ARO Young Investigator Award in 2000 and an ONR Young Investigator Award in 2001. He also received the 2006 IEEE Signal Processing Magazine best paper award. He served as associate editor for the IEEE Trans. on Circuits and Systems for Video Technology (1999-2005), the IEEE Trans. on Image Processing (2002-2005), the IEEE Trans. on Signal Processing (2002-2006), the IEEE Trans. on Systems, Man, and Cybernetics (part B) (2005-2009), and the IEEE Trans. on Communications (2008-2013). He is a fellow of the IEEE. He came to the lab and listened to the students' reports. He gave the students a lot of advices and helped them expand their horizens.(2014.07)",
+        "imgs": [
+            "dest/imgs/activity/熊子祥.jpg"
+        ]
+    },
+    "sunhuifang": {
+        "content": "Prof. Huifang Sun joinced to Sarnoff Corporation in 1990 as a member of technical staff and was promoted to a Technology Leader of Digital Video Communication. . In 1995, he joined Mitsubishi Electric Research Laboratories (MERL) and was promoted as Vice President and Deputy Director in 2003 and currently is a Fellow of MERL. He came to the lab and made a presentation about digital video signal processing.(2014.09)",
+        "imgs": [
+            "dest/imgs/activity/孙慧芳.jpg"
+        ]
+    },
+    "jiangyuming": {
+        "content": "Prof. Yuming Jiang of Norwegian University of Science and Technology (NTNU) visited MCNC. He is the author of ”Stochastic Network Calculus”, the first dedicated book in the SNC area. In the area of network calculus, his focus has been on developing models and investigating their basic properties for stochastic network calculus (SNC), and recently also on applying SNC to performance analysis of wireless networks . He came to the lab and listened to the students' reports. They found a lot in common on the field of SNC. He gave the students lots of advices and helped them expand their horizons.",
+        "imgs": [
+            "dest/imgs/activity/蒋宇明.jpg"
+        ]
+    }
+}

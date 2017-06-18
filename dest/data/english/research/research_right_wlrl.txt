@@ -1,0 +1,7 @@
+{
+    "title": "Network Capacity",
+    "content": "Capacity is an important QoS performance of wireless ad hoc networks. We mainly focus on the asymptotic analysis of  the capacity in large scale wireless networks with multi-hop routing protocols, and different traffic patterns are considered during our research. Moreover, we are interested in the tradeoff between network capacity and delay.",
+    "img": ["dest/imgs/research/网络容量.gif"],
+    "people_title": "Related Students",
+    "people": "Qiuming Liu(Ph.D),Peng Yang(Ph.D), Yuan Gao,Guang Bai,Shiting Hu."
+}

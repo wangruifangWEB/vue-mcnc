@@ -1,0 +1,13 @@
+{
+    "head": "成就",
+    "items": [
+        {
+            "name": "期刊会议",
+            "link": "/publish/qikan"
+        },
+        {
+            "name": "国家专利",
+            "link": "/publish/zhuanli"
+        }
+    ]
+}

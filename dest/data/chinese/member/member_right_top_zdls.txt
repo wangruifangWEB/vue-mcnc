@@ -1,0 +1,29 @@
+{
+    "head": "指导老师",
+    "items": [
+        {
+            "name": "喻莉教授",
+            "link": "yuli"
+        },
+        {
+            "name": "朱光喜教授",
+            "link": "zhuguangxi"
+        },
+        {
+            "name": "刘琼副教授",
+            "link": "liuqiong"
+        },
+        {
+            "name": "程起敏副教授",
+            "link": "chenqiming"
+        },
+        {
+            "name": "张江山副教授",
+            "link": "zhangjiangshan"
+        },
+        {
+            "name": "杨铀讲师",
+            "link": "yangyou"
+        }
+    ]
+}

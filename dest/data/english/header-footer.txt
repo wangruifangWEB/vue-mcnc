@@ -1,0 +1,40 @@
+{
+  "header":[
+    {
+      "icon":"mcnc-Home",
+      "title":"Home",
+      "link":"/home_en"
+    },
+    {
+      "icon":"mcnc-member",
+      "title":"Member",
+      "link":"/member_en"
+    },
+    {
+      "icon":"mcnc-research1",
+      "title":"Research",
+      "link":"/research_en"
+    },
+    {
+      "icon":"mcnc-activity",
+      "title":"Activity",
+      "link":"/activity_en"
+    },
+    {
+      "icon":"mcnc-resource",
+      "title":"Resource",
+      "link":"/resource_en"
+    },
+    {
+      "icon":"mcnc-paper1",
+      "title":"Publish",
+      "link":"/publish_en"
+    },
+    {
+      "icon":"mcnc-ying",
+      "title":"E/C",
+      "link":"/home"
+    }
+  ],
+  "footer":["Address:B303,WNLO,Huazhong niversity of Science and Technology, Wuhan, P.R.China 430074.","Multimedia and intelligent network laboratory","TEL: +86-27-87792092-603"]
+}

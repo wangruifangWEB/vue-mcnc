@@ -1,0 +1,7 @@
+{
+    "title": "Trust Routing",
+    "content": "This research area is based on National 863 Plan Projects of China (2009AA01Z205). Our research aims to establish trust management frameworks to improve the security of Ad Hoc networks and to resist the attacks from malicious nodes. Currently we are working on some research points like establishing the independent trusted routing protocol for Ad Hoc networks, proposing the trustworthiness evaluation model based on directed graph and ordered semiring algebra, building the simulation platform of trusted routing in Ad Hoc networks and so on.",
+    "img": ["dest/imgs/research/信任路由.gif"],
+    "people_title": "Related Students",
+    "people": "Zuhao Liu(Ph.D),Jia Zhao(Ph.D),Jingru Li,Ke Wang,Cong Qian."
+}

@@ -1,0 +1,26 @@
+{
+    "head": "Dissertation Defense",
+    "items": [
+        {
+            "content": "Congratulations Yi Zhang(PH.D) have successfully finished his doctoral dissertation and thesis oral defense.",
+            "imgs": [
+                "dest/imgs/activity/张轶.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations Cong Liu(PH.D) have successfully finished his doctoral dissertation and thesis oral defense.",
+            "imgs": [
+                "dest/imgs/activity/刘聪.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations Zuhao LIU(Ph.D) and Huiping Deng(Ph.D) have successfully finished their doctoral dissertation and thesis oral defense. Moreover, Prof. Zixiang XIONG(IEEE Fellow) have participated in the defence and gave a lot of guidance.",
+            "imgs": [
+                "dest/imgs/activity/刘祖浩_1.jpg",
+                "dest/imgs/activity/邓慧萍_2.jpg",
+                "dest/imgs/activity/邓慧萍_1.jpg",
+                "dest/imgs/activity/刘祖浩_2.jpg"
+            ]
+        }
+    ]
+}

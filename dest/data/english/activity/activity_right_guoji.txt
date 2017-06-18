@@ -1,0 +1,44 @@
+{
+    "vtc": {
+        "content": "Guang BAI's paper entitled 'An Achievable Throughput Capacity of Three-Dimensional Inhomogeneous Wireless Networks' has been accepted by VTC FALL 2014. It has been hold on in Vancouver, Canada. The co-author Qiumin LIU has attended the conference and taken a presentation at the meeting . He communicated with a lot of international scholars and exchanged some ideas about related area.",
+        "imgs": [
+            "dest/imgs/activity/vtc.jpg",
+            "dest/imgs/activity/vtc2.jpg"
+        ]
+    },
+    "wcsp": {
+        "content": "Shiting HU 's paper entitled 'Throughput Capacity of Wireless Networks with Social Features' has been accepted by WCSP 2013.She has given a good oral report at the conference. Prof.Yu and Prof. P.R. Kumar(IEEE Fellow) have also communicated with each other for academic research and opinions' exchange.",
+        "imgs": [
+            "dest/imgs/activity/wcsp1.jpg",
+            "dest/imgs/activity/wcsp2.jpg"
+        ]
+    },
+    "icip": {
+        "content": "Peng Zhou's paper entitled 'The Non-Lambertian Reflection in Plenoptic Sampling' has been accepted by ICIP 2013 .His poster has been presented at the meeting .Professor Yu has attended the conference. She communicated with a lot of international scholars and exchanged some ideas about related area. They had a good time in Melbourne.After the conference, Peng ZHOU came back to school. He gave a report in the lab .He introduced what others were going on related research and brought lots of ideas.",
+        "imgs": [
+            "dest/imgs/activity/icip1.jpg",
+            "dest/imgs/activity/icip2.jpg"
+        ]
+    },
+    "icc": {
+        "content": "Jingjing LUO's paper entitled 'Throughput and Delay of Mobile Hybrid Wireless Networks Under K Length Routing Policy' has been accepted by IEEE ICC 2013. She made a presentation at the conference.",
+        "imgs": [
+            "dest/imgs/activity/icc.jpg"
+        ]
+    },
+    "globecom": {
+        "content": "On Dec. 2th, Prof. Yu and Wei Cheng went to USA to attend the Globecom 2010 conference at Miami. They stayed in Los Angeles for 2 days and visited Caltech, USC and UCLA. In USC, they joined the seminar in Prof. C.C. Jay Kuo's lab. Prof. Yu had a talk with Jay Kuo about future cooperation.Globecom started from 6th to 10th. During the conference time, Prof. Yu communicated with a lot of international scholars and exchanged some ideas about related area. On 7th, Wei Cheng gave a presentation on its accepted paper entitled 'Trusted network coding in wireless network'. He said that Globecom offered him a view about current research trend in communication area and also an opportunity to discuss with famous scholars. Prof. Yu said that international conference is a good way of exchanging ideas and the lab will encourage more students to submit papers to famous conferences.",
+        "imgs": [
+            "dest/imgs/activity/globecom1.jpg",
+            "dest/imgs/activity/globecom2.jpg",
+            "dest/imgs/activity/globecom3.jpg",
+            "dest/imgs/activity/globecom4.jpg"
+        ]
+    },
+    "smc": {
+        "content": "The IEEE SMC Society Student Branch Chapters Student Paper Contests 2011 was successfully held in City University of Hong Kong, on 5 November. This event is organized by IEEE SMC Society of South China University of Technology and City University of Hong Kong. And it aims to provide undergraduate and postgraduate students with an opportunity to discuss their research results with researchers and fellow students. Through a tight review process conducted by famous IEEE Fellows, 9 best papers were selected to be presented at the contest day. Doudou Samb, a student from Huazhong University of Science and Technology, Electronic and Information Engineering Department was one of them. After presenting his paper entitled “Efficient Outage Optimization based on Selection between fixed Relaying Protocols for Wireless Cooperative Networks”, a certificate of merit was awarded to him. Doudou says: “I am very happy to be selected to participate in such activity”.",
+        "imgs": [
+            "dest/imgs/activity/smc.jpg"
+        ]
+    }
+}

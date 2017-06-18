@@ -1,0 +1,13 @@
+{
+    "head": "实验室",
+    "items": [
+        {
+            "name": "无线网络组",
+            "link": "wireless"
+        },
+        {
+            "name": "多媒体组",
+            "link": "media"
+        }
+    ]
+}

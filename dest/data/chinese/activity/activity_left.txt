@@ -1,0 +1,29 @@
+{
+    "head": "活动",
+    "items": [
+        {
+            "name": "来访教授",
+            "link": "/activity/laifang"
+        },
+        {
+            "name": "学术交流",
+            "link": "/activity/xueshu"
+        },
+        {
+            "name": "国际会议报告",
+            "link": "/activity/guoji"
+        },
+        {
+            "name": "毕业答辩",
+            "link": "/activity/biye"
+        },
+        {
+            "name": "实验室活动",
+            "link": "/activity/shiyan"
+        },
+        {
+            "name": "师生荣誉",
+            "link": "/activity/rongyu"
+        }
+    ]
+}

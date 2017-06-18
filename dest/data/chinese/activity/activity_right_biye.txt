@@ -1,0 +1,26 @@
+{
+    "head": "毕业答辩",
+    "items": [
+        {
+            "content": "祝贺张轶博士顺利通过博士论文答辩。",
+            "imgs": [
+                "dest/imgs/activity/张轶.jpg"
+            ]
+        },
+        {
+            "content": "祝贺刘聪博士顺利通过博士论文答辩。",
+            "imgs": [
+                "dest/imgs/activity/刘聪.jpg"
+            ]
+        },
+        {
+            "content": "祝贺刘祖浩博士和邓慧萍博士成功完成他们的博士论文以及学位论文答辩，此外，熊子祥教授（IEEE Fellow）参与了他们的答辩并给出了指导意见。",
+            "imgs": [
+                "dest/imgs/activity/刘祖浩_1.jpg",
+                "dest/imgs/activity/邓慧萍_2.jpg",
+                "dest/imgs/activity/邓慧萍_1.jpg",
+                "dest/imgs/activity/刘祖浩_2.jpg"
+            ]
+        }
+    ]
+}

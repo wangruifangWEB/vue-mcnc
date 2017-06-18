@@ -1,0 +1,33 @@
+{
+    "head": "来访教授",
+    "items": [
+        {
+            "name": "戴锐",
+            "link": "dairui"
+        },
+        {
+            "name": "李硕彦",
+            "link": "lishuoyan"
+        },
+        {
+            "name": "熊洪凯",
+            "link": "xionghongkai"
+        },
+        {
+            "name": "Sanjit K.Mitra",
+            "link": "mitra"
+        },
+        {
+            "name": "熊子祥",
+            "link": "xiongzixiang"
+        },
+        {
+            "name": "孙慧芳",
+            "link": "sunhuifang"
+        },
+        {
+            "name": "蒋宇明",
+            "link": "jiangyuming"
+        }
+    ]
+}

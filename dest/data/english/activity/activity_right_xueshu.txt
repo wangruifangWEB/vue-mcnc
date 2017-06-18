@@ -1,0 +1,21 @@
+{
+  "head":"Academic Exchange",
+  "items":[
+    {
+      "id":1,
+      "content":"Heng Zhang(PH.D) and Yongmin Zhang(PH.D) are currently working in the group of networked sensing and control, state key laboratory of industrial technology, department of control science and engineering, Zhejiang University. They came to MCNC and did presentations about what they have researched.",
+      "imgs":[
+        "dest/imgs/activity/张恒.jpg",
+        "dest/imgs/activity/张永敏.jpg"
+      ]
+    },
+    {
+      "id":2,
+      "content":"Kang Chen(PH.D) is currently a postdoctoral research fellow in the connected vehicle group in the Department of Electrical and Computer Engineering at Clemson University. He received his Ph.D. in computer engineering from Clemson University in 2014, his M.E. degree from University of Chinese Academy of Sciences in 2008, and his B.E. degree from Huazhong University of Science and Technoloqy in 2005. His research interests are broadly in mobile and computer networks, with an emphasis on vehicular networks, software-defined networking (SDN), mobile opportunistic/ad hoc networks, mobile social networks, peer-to-peer networks, and GENI. He came to the lab and did a presentation about vehicular networks, software-defined networking (SDN) and communicated with students who worked in MCNC.",
+      "imgs":[
+        "dest/imgs/activity/陈康_1.jpg",
+        "dest/imgs/activity/陈康_2.jpg"
+      ]
+    }
+  ]
+}

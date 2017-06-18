@@ -1,0 +1,12 @@
+{
+    "title": "Other Direction",
+    "content": "",
+    "img": [
+      "dest/imgs/research/qita_1.jpg",
+      "dest/imgs/research/qita_2.jpg",
+      "dest/imgs/research/qita_3.jpg",
+      "dest/imgs/research/qita_4.jpg"
+    ],
+    "people_title": "",
+    "people": ""
+}

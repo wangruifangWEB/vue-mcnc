@@ -1,0 +1,180 @@
+{
+    "wireless":{
+        "title":"Wireless network group",
+        "members":[
+            {
+                "name":"Doctor Jia Zhao",
+                "description":"Jia Zhao joined the laboratory network team in September 2009, and her current research direction is social networking.",
+                "img":"dest/imgs/members/赵佳.jpg",
+                "email":"zhaojiakitty@163.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Jingru Li",
+                "description":"Jingru Li joined the laboratory network group in September 2009, and her current research direction is the social network trust model research.",
+                "img":"dest/imgs/members/李静茹.jpg",
+                "email":"lijingru221@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Jun Zheng",
+                "description":"Jun Zheng joined the laboratory network group in September 2011. His current research direction is random network computing and cognitive radio network.",
+                "img":"dest/imgs/members/郑军.jpg",
+                "email":"Neptunezj@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Jingjing Luo",
+                "description":"Jingjing Luo joined the laboratory in September 2010, her current research direction is random network computing and network capacity.",
+                "img":"dest/imgs/members/罗晶晶.jpg",
+                "email":"luojingjing1989@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Chao Luo",
+                "description":"Chao Luo joined the laboratory in September 2010, his current research direction is random network calculus.",
+                "img":"dest/imgs/members/罗超.jpg",
+                "email":"lc19851205@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Yi Zhang ",
+                "description":"Zhang Yi joined the laboratory in September 2010, his current research direction is the network-related code.",
+                "img":"dest/imgs/members/张轶.jpg",
+                "email":"yizhang@smail.hust.edu.cn",
+                "detail":""
+            },
+            {
+                "name":"Doctor Qiuming Liu",
+                "description":"Qiuming Liu joined the laboratory in September 2012, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/刘秋明.jpg",
+                "email":"195324758@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Peng Yang",
+                "description":"Peng Yang joined the laboratory in September 2013. His current research direction is the wireless network capacity. ",
+                "img":"dest/imgs/members/杨鹏.jpg",
+                "email":"yangpeng@hust.edu.cn",
+                "detail":""
+            },
+            {
+                "name":"Master Shiting Hu",
+                "description":"Hu Shi Ting joined the laboratory in September 2012, her current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/胡诗婷.jpg",
+                "email":"hushiting218@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Master Guang Bai",
+                "description":"Guang Bai joined the laboratory in September 2012 in September 2012, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/白光.jpg",
+                "email":"515064068@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Juhong Tian",
+                "description":"Juhong Tian joined the laboratory in September 2014, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/田菊红.jpg",
+                "email":"1543996442@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Jing Sun",
+                "description":"Jing Sun joined the laboratory in September 2014, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/孙京.jpg",
+                "email":"1550955221@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Miaomiao Huang",
+                "description":"Miaomiao Huang joined the laboratory in September 2014, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/黄淼森.jpg",
+                "email":"1539258336@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Yinchao",
+                "description":"Yinchao joined the laboratory in September 2014, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/冯银超.jpg",
+                "email":"1542963276@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Pengfei He",
+                "description":"Pengfei He joined the laboratory in September 2015, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/贺鹏飞.jpg",
+                "email":"1227767012@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Xu Yi",
+                "description":"Xu Yi joined the laboratory in September 2015, his current research direction is the wireless network capacity.",
+                "img":"dest/imgs/members/default.jpg",
+                "email":"2273848642@qq.com",
+                "detail":""
+            }
+        ]
+    },
+    "media":{
+        "title":"Multimedia group",
+        "members":[
+            {
+                "name":"Doctor Gang Zhong",
+                "description":"Gang Zhong joined the laboratory in September 2008, his current research direction is the network coding.",
+                "img":"dest/imgs/members/钟刚.jpg",
+                "email":"fhjianke@126.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Peng Zhou",
+                "description":"Peng Zhou joined the laboratory in September 2009, his current research direction is the network coding.",
+                "img":"dest/imgs/members/周鹏.jpg",
+                "email":"betzhou@hotmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Sen Xiang",
+                "description":"Sen Xiang joined the laboratory in September 2010, his current research direction is the network coding.",
+                "img":"dest/imgs/members/向森.jpg",
+                "email":"xiangsen1989@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Doctor Changjian Zhu",
+                "description":"Changjian Zhu joined the laboratory in September 2012. His current research direction is 3D sampling.",
+                "img":"dest/imgs/members/祝常健.jpg",
+                "email":"276206020@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Dotcor Shengwei Wang",
+                "description":"Shengwei Wang joined the laboratory in September 2013, and his current research direction is video coding.",
+                "img":"dest/imgs/members/王晟玮.jpg",
+                "email":"kadinwang@gmail.com",
+                "detail":""
+            },
+            {
+                "name":"Master Xiancai Tang",
+                "description":"Xiancai Tang joined the laboratory in September 2012, his current research direction is 3D video coding.",
+                "img":"dest/imgs/members/汤显才.jpg",
+                "email":"675604355@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Xu Li",
+                "description":"Xu Li joined the laboratory in September 2012. Her current research direction is 3D video coding.",
+                "img":"dest/imgs/members/李旭.jpg",
+                "email":"536772218@qq.com",
+                "detail":""
+            },
+            {
+                "name":"Master Zengqiang Yan",
+                "description":"Zengqiang Yan joined the lab in September 2013, and his current research is 3D model reconstruction and 3D image processing.",
+                "img":"dest/imgs/members/闫增强.jpg",
+                "email":"ZengqiangYan@hust.edu.cn ",
+                "detail":""
+            }
+        ]
+    }
+}

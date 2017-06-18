@@ -1,0 +1,13 @@
+{
+    "head": "Resource",
+    "items": [
+        {
+            "name": "PPT",
+            "link": "ppt"
+        },
+        {
+            "name": "Other",
+            "link": "other"
+        }
+    ]
+}

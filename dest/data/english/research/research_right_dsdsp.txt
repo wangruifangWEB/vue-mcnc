@@ -1,0 +1,7 @@
+{
+    "title": "Multi-view Video",
+    "content": "Multi-view acquisition systems based on multiple texture cameras leads to two problems：the huge data volume and the lack of depth information. Considering the  limitations above, this project proposes a novel framework based on multiple  depth cameras and less texture cameras for multi-view acquisition and  reconstruction. Our research is sponsored by the State Key Program of National Natural Science Foundation of China(NO.61231010). ",
+    "img": ["dest/imgs/research/多视点视频.gif"],
+    "people_title": "Related Students",
+    "people": "Li Yu(Professor), Qiong Liu(Associate Professor), You Yang(Lecturer), Gang Zhong(Ph.D),Peng Zhou(Ph.D),Sen Xiang(Ph.D hangjian Zhu(Ph.D), Lianhua Li(Ph.D), Xu Li,Xiancai Tang,Zengqiang Yan,Linze Wu."
+}

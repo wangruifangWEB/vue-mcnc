@@ -1,0 +1,66 @@
+{
+    "notice": "写法注意:一行写不下也不能换行！切记",
+    "left_top_title": "实验室成员",
+    "left_top_img": "dest/imgs/teacher.jpg",
+    "left_bottom_title": "实验室简介",
+    "left_bottom_description": "多媒体与智能网络实验室是一个致力于科技创新的团队，其研究领域包括多媒体技术，无线网络，网络流量控制，视频编译码等。在喻莉教授的指导下，二十多名研究生在学术领域和个人能力方面共同进步。实验室研究气氛活跃，定期举办课余活动，提供运动场地以促进成员的交流与沟通",
+    "right_title": "最新动态",
+    "right_news": [
+        {
+            "type": "学术报告",
+            "img": "dest/imgs/学术.jpg",
+            "title": "欢迎美国Cincinnati大学电子工程与计算机系统系的助理教授戴锐博士访问MCNC，并举行学术报告，讲座内容与传感器系统（Intelligent sensor systems）和 eHealth相关",
+            "time": "时间：2015.5     地点：A302",
+            "detail": "/activity/laifang/dairui"
+        },
+        {
+            "type": "论文发表",
+            "img": "dest/imgs/论文.jpg",
+            "title": "祝贺阎增强的论文“Large-Area Depth Recovery for RGB-DCamera”和向森的论文“Multi-camera Interference Cancellation of Time-of-Flight (TOF)Cameras”被2015ICIP收录，并且阎增强的论文获得了ICIP的Travel Grant Award。",
+            "time": "",
+            "detail": "/activity/rongyu"
+        },
+        {
+            "type": "喜事祝贺",
+            "img": "dest/imgs/其他.jpg",
+            "title": "祝贺罗晶晶师姐获得XX项目审批",
+            "time": "",
+            "detail": "/activity/rongyu"
+        },
+        {
+            "type": "毕业祝贺",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "祝贺博士张轶，硕士白光、胡诗婷、周家亮、汤显才、杨星、李旭、魏慧慧顺利通过毕业答辩。",
+            "time": "",
+            "detail": "/activity/biye"
+        },
+        {
+            "type": "节日活动",
+            "img": "dest/imgs/活动.jpg",
+            "title": "欢迎\"网络编码之父\"李硕彦教授到访MCNC作学术交流。",
+            "time": "时间：2015.04",
+            "detail": "/activity/shiyan"
+        },
+        {
+            "type": "学术报告",
+            "img": "dest/imgs/学术.jpg",
+            "title": "欢迎美国克莱蒙森大学的陈康博士来MCNC作学术交流",
+            "time": "时间：2014.12",
+            "detail": "/activity/xueshu"
+        },
+        {
+            "type": "学术报告",
+            "img": "dest/imgs/学术.jpg",
+            "title": "欢迎上海交通大学的熊洪凯教授到访MCNC",
+            "time": "时间：2014.11",
+            "detail": "/activity/laifang/xionghongkai"
+        },
+        {
+            "type": "毕业祝贺",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "祝贺刘聪博士顺利通过毕业答辩",
+            "time": "时间：2014.11",
+            "detail": "/activity/biye"
+        }
+    ]
+}

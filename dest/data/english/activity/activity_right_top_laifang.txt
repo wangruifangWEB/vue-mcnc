@@ -1,0 +1,33 @@
+{
+    "head": "Visiting professor",
+    "items": [
+        {
+            "name": "Rui Dai",
+            "link": "dairui"
+        },
+        {
+            "name": "Bob Li ",
+            "link": "lishuoyan"
+        },
+        {
+            "name": "Hongkai Xiong ",
+            "link": "xionghongkai"
+        },
+        {
+            "name": "Sanjit K.Mitra",
+            "link": "mitra"
+        },
+        {
+            "name": "Zixiang Xiong",
+            "link": "xiongzixiang"
+        },
+        {
+            "name": "Huifang Sun",
+            "link": "sunhuifang"
+        },
+        {
+            "name": "Yuming Jiang",
+            "link": "jiangyuming"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "head": "研究方向",
+    "items": [
+        {
+            "name": "Multi-view Video",
+            "link": "dsdsp"
+        },
+        {
+            "name": "Video Communication",
+            "link": "sptx"
+        },
+        {
+            "name": "Trust Routing",
+            "link": "xrly"
+        },
+        {
+            "name": "Network Capacity",
+            "link": "wlrl"
+        },
+        {
+            "name": "Network Calculus",
+            "link": "wlys"
+        },
+        {
+            "name": "Cognitive Network",
+            "link": "rzwl"
+        },
+        {
+            "name": "Network Coding",
+            "link": "wlbm"
+        },
+        {
+            "name": "Other Researches",
+            "link": "qtfx"
+        }
+    ]
+}

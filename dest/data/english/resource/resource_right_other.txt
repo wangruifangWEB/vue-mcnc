@@ -1,0 +1,13 @@
+{
+    "title": "Other Resource",
+    "content": [
+        {
+            "title": "硕士毕业流程",
+            "link": "dest/other/1.doc"
+        },
+        {
+            "title": "博士毕业流程",
+            "link": "dest/other/2.doc"
+        }
+    ]
+}

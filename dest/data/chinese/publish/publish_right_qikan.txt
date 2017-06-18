@@ -1,0 +1,14 @@
+{
+    "2013": {
+        "time": "2013年发表文章",
+        "content": [
+            "[17]J. Luo, J. Zhang, Li Yu, Xinbing Wang, \"Impact of Location Popularity on Throughput and Delay in Mobile Ad Hoc Networks,\" to appear in IEEE Transactions on Mobile Computing, 2014."
+        ]
+    },
+    "2014": {
+        "time": "2014年发表文章",
+        "content": [
+            "[17]J. Luo, J. Zhang, Li Yu, Xinbing Wang, \"Impact of Location Popularity on Throughput and Delay in Mobile Ad Hoc Networks,\" to appear in IEEE Transactions on Mobile Computing, 2014."
+        ]
+    }
+}

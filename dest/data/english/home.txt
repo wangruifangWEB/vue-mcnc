@@ -1,0 +1,61 @@
+{
+  "notice":"写法注意:一行写不下也不能换行！切记",
+
+
+  "left_top_title":"Laboratory members",
+  "left_top_img":"dest/imgs/teacher.jpg",
+  "left_bottom_title":"Laboratory introduction",
+  "left_bottom_description":"MCNC is an innovative center dedicating to the advancement of technology in the fields of multimedia infomation processing, wireless network, 3D video coding, social networks, cognitive radio,etc. Under the leadship of Prof.YU, more than twenty graduate and undergraduate members work together towards both academic and individual career fulfillment. Diversity of group members contributes to the active inter-communication within lab. Moreover, MCNC also provides a playground for members to have fun. Various entertaining activities and games are scheduled periodically, which help creating an ambient atmosphere among lab members. ",
+  "right_title":"Latest News",
+  "right_news":[
+      {
+        "type":"Academic Report",
+        "img":"dest/imgs/学术.jpg",
+        "title":"Assistant Professor Rui Dai of the University of Cincinnati visited MCNC and did a presentation about Intelligent sensor systems and eHealth.(2015.05)",
+        "time":"Time：2015.5     Address：A302",
+        "detail":"/activity_en/laifang/dairui"
+      },
+      {
+        "type":"Paper Publish",
+        "img":"dest/imgs/论文.jpg",
+        "title":"Congratulations-Zengqiang Yan's paper entitled \"Large-Area Depth Recovery for RGB-D Camera\" and Sen Xiang's paper entitled \"Multi-camera Interference Cancellation of Time-of-Flight (TOF) Cameras\" have been accepted by the 2015ICIP. Moerover, the Zengqiang Yan's paper has taken the Travel Grant Award of ICIP",
+        "time":"",
+        "detail":"/activity_en/rongyu"
+      },
+      {
+        "type":"Congratulations on Graduation",
+        "img":"dest/imgs/毕业.jpg",
+        "title":"Congratulations- Ph.D Yi Zhang and Master Guang bai, Shiting Hu, Jialiang Zhou, Xiancai Tang, Xing Yang, Xu Li, Huihui Wei have successfully finished their thesis defenses",
+        "time":"",
+        "detail":"/activity_en/rongyu"
+      },
+      {
+        "type":"FestivaI Activity",
+        "img":"dest/imgs/活动.jpg",
+        "title":"Congratulations- Cong LIU have successfully finished his doctoral dissertation and thesis oral defense",
+        "time":"Time：2015.04",
+        "detail":"/activities_en/professor/lishuoyan"
+      },
+      {
+        "type":"Academic Report",
+        "img":"dest/imgs/学术.jpg",
+        "title":"PH.D Kang Chen of Clemson University visited MCNC.",
+        "time":"Time：2014.12",
+        "detail":"#/activities/communicate"
+      },
+      {
+        "type":"Academic Report",
+        "img":"dest/imgs/学术.jpg",
+        "title":"Prof. Hongkai XIONG of Shanghai Jiao Tong University visited MCNC.",
+        "time":"Time：2014.11",
+        "detail":"#/activities/professor/xionghongkai"
+      },
+      {
+        "type":"Congratulations on Graduation",
+        "img":"dest/imgs/毕业.jpg",
+        "title":"Congratulations- Cong LIU have successfully finished his doctoral dissertation and thesis oral defense.",
+        "time":"Time：2014.11",
+        "detail":"#/activities/graduate"
+      }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "会议论文",
+    "content": [
+        "[16] C. J. Zhu, L. Yu, and? P. Zhou,? Coverage Field Analysis to the Quality of Light Field Rendering. In Multimedia Modeling, Springer International Publishing, January, 2014, pp. 170-180",
+        "[15] Linze Wu, Li Yu, and Changjian Zhu. Camera Position Optimization Using the Effective Area In Light Field Rendering. In Proceedings of the International Conference on Internet Multimedia Computing and Service, pages 60–66. ACM, 2014.",
+        "[14]Jingjing Luo, Jinbei Zhang, Li Yu, Xinbing Wang: Non-asymptotic multicast throughput capacity in multi-hop wireless networks. GLOBECOM 2013: 13-18",
+        "[13]Jingjing Luo, Li Yu, Shiting Hu, Chao Luo: Throughput and delay of mobile hybrid wireless networks under K length routing policy. ICC 2013: 6306-6310",
+        "[12] Sen Xiang, Li Yu, Qiong Liu, Zixiang Xiong: A gradient-based approach for interference cancelation in systems with multiple Kinect cameras. IEEE International Symposium on? Circuits and Systems (ISCAS), 2013: 13-16",
+        "[11] Sen Xiang, Jingteng Xue, Li Yu, Chang Wen Chen, No-reference depth quality assessment for texture-plus-depth images. IEEE International Conference on? Multimedia and Expo (ICME), 2014: 1-6",
+        "[10] Sicheng Zhao, Hongxun Yao, You Yang, Yanhao Zhang; Affective Image Retrieval via Multi-Graph Learning; ACM Conference on Multimedia, 2014, pp.1025-1028",
+        "[9] G. Zhong, L. Yu and P. Zhou, ‘Edge-preserving single depth image interpolation’, in IEEE Visual Communications and Image Processing(VCIP), 2013, pp.1-6.",
+        "[8] P. Zhou, L. Yu and C. Park, ‘The Spectrum Broadening in the Plenoptic Function’, in ACM International Conference on Internet Multimedia Computing and Service, 2014, pp. 130-135.",
+        "[7] P. Zhou, L. Yu and G. Zhong, ‘The non-Lambertian reflection in Plenoptic Sampling’, in IEEE International Conference on Image Processing(ICIP), 2013, pp. 2154-2157.",
+        "[6] Lie Jiang, Li Yu, Yan Dong, Zilong Chen: Delay and backlog distribution analysis of Amplify-and-Forward cooperative channels: A stochastic network calculus perspective. WCNC 2013: 2085-2090",
+        "[5] Qin Zhu, Li Yu, Sangsha Fang: Per-flow end-to-end delay bounds in hybrid wireless network. WCNC 2013: 2113-2118",
+        "[4] Yuan Gao, Li Yu, Zuhao Liu, Cong Liu, Desheng Wang: On the capacity of DMPR wireless networks. WCNC 2013: 3609-3613",
+        "[3] Cong Liu, Li Yu, Yuan Gao, Zuhao Liu: A bandwidth efficient and proportional fairness video transmission scheme in TV White Space. WCNC 2013: 4800-4805",
+        "[2] Qiong Liu, You Yang, Xu Wang, Liujuan Cao; Quality Assessment on User Generated Image for Mobile Search Application, Multimedia Modeling, MMM 2013, Part II, Lecture Notes in Computer Science, vol. 7733, 1-11, 2013.",
+        "[1] You Yang, Qiong Liu, Yue Gao, Binbin Xiong, Li Yu, Huanbo Luan, Rongrong Ji, Qi Tian; Stereotime: A Wireless 2D and 3D Switchable Video Communication System, ACM Conference on Multimedia 2013, 473-474."
+    ]
+}

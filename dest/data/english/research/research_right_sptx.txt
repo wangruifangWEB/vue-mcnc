@@ -1,0 +1,7 @@
+{
+    "title": "Video Communication",
+    "content": "With the fast development of multimedia communication and the need of some other applications, a better video coding system with higher performance but lower computational complexity is needed,such as the AVS. Our research focuses on both research and applications in coding and decoding standard including Audio Video Standard(AVS), High Efficient Video Coding Standard(HEVC/H.265), Low bitrate video coding for 3G video communication.",
+    "img": ["dest/imgs/research/视频通信.gif"],
+    "people_title": "Related Students",
+    "people": ">Qiong Liu(Associate Professor), You Yang(Lecturer), Jialiang Zhou,Bintao Gong,Guoxing Yu,Hao Liu."
+}

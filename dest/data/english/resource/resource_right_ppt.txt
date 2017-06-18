@@ -1,0 +1,13 @@
+{
+    "title": "Resource of PPT",
+    "content": [
+        {
+            "title": "XX教授关于《XXX》的讲座PPT",
+            "link": "dest/ppt/example.ppt"
+        },
+        {
+            "title": "XX教授关于《XXX》的讲座PPT",
+            "link": "static/ppt/xx.ppt"
+        }
+    ]
+}

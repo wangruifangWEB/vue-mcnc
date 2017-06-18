@@ -1,0 +1,16 @@
+{
+    "2013": {
+        "time": "2013年申请专利",
+        "content": [
+            "[1] One loop-filtering Method and loop-filter in Video Coding System, ZL200410012658.0.",
+            "[2] One Complexity-Scalable Intra-Frame Prediction Method, ZL200410061094.X."
+        ]
+    },
+    "2014": {
+        "time": "2014年申请专利",
+        "content": [
+            "[3] One Enhancement Intra-Frame Prediction Mode Coding Method. ZL200510018489.6 AVS core patent.",
+            "[4] transform matrix selection method in video coding and related integer transform matrix. 05251662.2 in Europe."
+        ]
+    }
+}

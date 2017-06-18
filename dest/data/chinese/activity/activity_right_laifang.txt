@@ -1,0 +1,46 @@
+{
+    "dairui": {
+        "content": "戴锐（博士）助理教授是我校电子信息与通信学院的毕业优秀学子，现在在美国Cincinnati大学电子工程与计算机系统系担任助理教授，她受喻莉教授邀请访问电信学院，并举行学术报告，讲座内容与传感器系统（Intelligent sensor systems）和 eHealth相关。",
+        "imgs": [
+            "dest/imgs/activity/戴锐_1.jpg",
+            "dest/imgs/activity/戴锐_2.jpg"
+        ]
+    },
+    "lishuoyan": {
+        "content": "李硕彦教授毕业于国立台湾大学，1974年美国加州大学Berkeley数学博士，1974-76年于M.I.T.教授应用数学。1976-79年于伊利偌大学Chicago教授数学、统计学、计算机科学，1979-89年于贝尔通信实验室研究通信理论、交换系统。1989年至今任香港中文大学信息工程讲座教授。目前兼任网络编码研究所所长，以及电子科技大学、哈尔滨工程大学、西南交通大学、西安电子科技大学诸校的名誉教授。同时也是教育部“创新引智计划”北邮基地的学术大师，并曾兼任国立清华大学荣誉讲座教授、北京大学深圳研究生院特聘教授、北京邮电大学顾问教授。李教授是网络编码的创立者之一，Linear Network Coding 一文获IEEE 信息理论学会2005 年度论文奖。台湾工研院(ITRI) 的“Metro Switch” 计划中所用的“Algebraic Switching Fabric” 来自他的“Algebraic Switching Theory and Broadband Applications” 一书。他1980 年论文的Martingale of Patterns开创了一项研究，可应用于基因工程和其他领域。他至今获得32项美国专利。他来到实验室并与网络组的同学进行交流并给出宝贵的建议。",
+        "imgs": [
+            "dest/imgs/activity/李硕彦_1.jpg",
+            "dest/imgs/activity/李硕彦_2.jpg"
+        ]
+    },
+    "xionghongkai": {
+        "content": "熊洪凯教授是上海交通大学电子系的教授，于2003年获得上海交通大学博士学位，于2007-2008年作为访问学者前往美国卡耐基梅隆大学，于2011-2012年在加州大学圣地亚哥分校生物医学信息参与研究。他来到实验室与同学们进行了充分交流。",
+        "imgs": [
+            "dest/imgs/activity/熊洪凯.jpg"
+        ]
+    },
+    "mitra": {
+        "content": "Sanjit K. Mitra 博士是加州大学圣塔芭芭拉分校的电气与计算机工程、谢明南加州大学电机工程系的教授。他在美国以及16个海外国家举办的会议中进行了29场主题演讲并作出了大量的学术报告。他在IEEE中担任多个职务，其中包括1986年担任 IEEE Circuits & Systems Society的主席。 他是美国国家工程院的成员，挪威技术科学院的成员，芬兰研究院的院士，芬兰艺术与科学学院的外籍成员，克罗地亚艺术与科学学院、墨西哥工程研究院的通信会员，印度国家科学院以及印度国家工程院的外籍fellow。Mitra同时是IEEE, AAAS, and SPIE协会的fellow。 在本次交流中，Mitra教授回顾了数字全通滤波器的性能，并介绍了其广泛的应用范围，例如：陷波滤波，低灵敏度数字滤波，可调滤波器设计，多速率滤波等。 (2014.06)",
+        "imgs": [
+            "dest/imgs/activity/Mitra.jpg"
+        ]
+    },
+    "xiongzixiang": {
+        "content": "熊子祥教授美国德克萨斯A&M大学电气与计算机工程系熊子祥教授受邀在我系光电实验室F401会议室为电信系师生做了一场关于通信编码方向的学术讲座暨专业研讨会。电信系教授喻莉，讲师杨铀以及研究生、博士生代表参与了研讨。讲座主题为：Hybrid random-structured coding，熊教授深入简出地讲解了由香农随机码所推导出的编码方法，并与师生们进行了专业互动回答，使到会的师生们受益匪浅。会后，若干博士、研究生代表向熊子祥教授汇报工作，熊老师耐心的指出学生们科研中的不足，并且给出了很多中肯的意见，对大家的科研工作提供了很大的帮助。 （2014.07)",
+        "imgs": [
+            "dest/imgs/activity/熊子祥.jpg"
+        ]
+    },
+    "sunhuifang": {
+        "content": "孙慧芳教授 是三菱电机美国研究院副院长、高级研究员，北京大学客座教授。目前是IEEE Transaction on Circuits and Systems for Video technology的副主编，同时担任IEEE Circuits and System Society的视觉处理技术委员会主席职务，且一直是MPEG标准制定的参与者。主要为数字视频/图像压缩技术及视频通信技术，主要研究项目包括：MPEG Video Coding, HDTV, Advanced TV Development, Digital Video Processing, Digital Video/Image Compression and Digital Video Communication。 此次来访，孙惠方教授就HEVC视频编解码标准以及其发展动态做了整体的介绍，会后还听取视频组同学的工作汇报，给出指导性建设性的意见。（2014.09)",
+        "imgs": [
+            "dest/imgs/activity/孙慧芳.jpg"
+        ]
+    },
+    "jiangyuming": {
+        "content": "蒋宇明教授于2004年加入挪威科技大学，并在次年被聘为该校终身教授。蒋老师是《随机网络演算》一书的作者，是该领域的第一本专著。他担任过globecom2005的co-chair，VTC2008的TPC co-chair，从2010年起担任ISWCS的指导委员会主席，以及IFIP2014的大会主席。蒋老师此次主要从以下方面介绍了随机网络演算理论：（1）网络演算的背景以及基本特性，（2）到达曲线和服务曲线（3）随机网络演算的基本结论（4）在研究无线网络性能方面的相关应用。会后蒋老师针对相应方向同学的问题给出了详细的讲解和方向性的建议。",
+        "imgs": [
+            "dest/imgs/activity/蒋宇明.jpg"
+        ]
+    }
+}

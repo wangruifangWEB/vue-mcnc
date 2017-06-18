@@ -1,0 +1,37 @@
+{
+    "head": "研究方向",
+    "items": [
+        {
+            "name": "多视点视频",
+            "link": "dsdsp"
+        },
+        {
+            "name": "视频通信",
+            "link": "sptx"
+        },
+        {
+            "name": "信任路由",
+            "link": "xrly"
+        },
+        {
+            "name": "网络容量",
+            "link": "wlrl"
+        },
+        {
+            "name": "网络演算",
+            "link": "wlys"
+        },
+        {
+            "name": "认知网络",
+            "link": "rzwl"
+        },
+        {
+            "name": "网络编码",
+            "link": "wlbm"
+        },
+        {
+            "name": "其它方向",
+            "link": "qtfx"
+        }
+    ]
+}

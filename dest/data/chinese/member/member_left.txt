@@ -1,0 +1,17 @@
+{
+    "head": "成员",
+    "items": [
+        {
+            "name": "指导老师",
+            "link": "/member/zdls"
+        },
+        {
+            "name": "实验室",
+            "link": "/member/sys"
+        },
+        {
+            "name": "毕业生",
+            "link": "/member/bys"
+        }
+    ]
+}

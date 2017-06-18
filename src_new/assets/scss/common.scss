@@ -1,0 +1,80 @@
+html{
+  box-sizing: border-box;
+}
+li{
+	list-style:none;
+}
+table{
+	border:1px solid #ccc;
+	width:750px;
+  margin:0 auto;
+	text-align:center;
+  thead{
+    tr{
+      background-color: lightgray;
+      font-weight:bold;
+    }
+  }
+	tr{
+		border:1px solid #ccc;
+		height:26px;
+    line-height:26px;
+		td{
+			width:150px;
+		}
+	}
+}
+
+//成员、研究、活动、发表页的左右布局公共样式
+.common{
+  display:flex;
+  .left{
+    min-width:200px;
+    padding-top:20px;
+    border-right:1px solid #ccc;
+    >div{
+      width:170px;
+      margin:0 auto;
+      span{
+        background:url(../imgs/icon.jpg) no-repeat -2px 6px;
+        margin:10px 0;
+        padding-left:12px;
+        font-size:16px;
+        line-height:22px;
+        display:block;
+        a{
+          color:black;
+          text-decoration:none;
+          &:hover{
+            color:purple;
+          }
+          &.router-link-active{
+            color:purple;
+            font-weight:bold;
+          }
+        }
+      }
+    }
+  }
+  .right{
+      // background-color: green;
+      margin-left:20px;
+      flex:1;
+      padding:40px 0 20px 0;
+  }
+}
+h2{
+  margin:20px 0;
+  font-size: 20px;
+  font-weight: bold;
+  text-align:center;
+  color: purple;
+}
+h3{
+  margin:18px 0;
+  font-size:18px;
+  text-align:left;
+  color:purple;
+  font-weight: bold;
+}
+

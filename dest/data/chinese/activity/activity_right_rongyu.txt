@@ -1,0 +1,17 @@
+{
+    "head": "师生荣誉",
+    "items": [
+        {
+            "id": 1,
+            "content": "祝贺阎增强的论文“Large-Area Depth Recovery for RGB-DCamera”和向森的论文“Multi-camera Interference Cancellation of Time-of-Flight (TOF)Cameras”被2015ICIP收录，并且阎增强的论文获得了ICIP的Travel Grant Award。",
+            "imgs": [
+            ]
+        },
+        {
+            "id": 2,
+            "content": "祝贺罗晶晶师姐获得XX项目审批",
+            "imgs": [
+            ]
+        }
+    ]
+}

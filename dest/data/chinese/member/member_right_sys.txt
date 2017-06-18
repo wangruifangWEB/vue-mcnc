@@ -1,0 +1,180 @@
+{
+	"wireless":{
+		"title":"无线网络组",
+		"members":[
+			{
+				"name":"赵佳 博士",
+				"description":"赵佳在2009年9月加入实验室网络团队，她现在的研究方向是社交网络。",
+				"img":"dest/imgs/members/赵佳.jpg",
+				"email":"zhaojiakitty@163.com",
+				"detail":""
+			},
+			{
+				"name":"李静茹 博士",
+				"description":"李静茹于2009年9月加入实验室网络组，她现在的研究方向是社交网络的信任模型研究。",
+				"img":"dest/imgs/members/李静茹.jpg",
+				"email":"lijingru221@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"郑军 博士",
+				"description":"郑军于2011年9月加入实验室网络组，他现在的研究方向是随机网络演算和认知无线电网络。",
+				"img":"dest/imgs/members/郑军.jpg",
+				"email":"Neptunezj@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"罗晶晶  博士",
+				"description":"罗晶晶于2010年9月加入实验室，她现在的研究方向是随机网络演算和网络容量。",
+				"img":"dest/imgs/members/罗晶晶.jpg",
+				"email":"luojingjing1989@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"罗超 博士",
+				"description":"罗超于2010年9月加入实验室，他现在的研究方向是随机网络演算。",
+				"img":"dest/imgs/members/罗超.jpg",
+				"email":"lc19851205@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"张轶 博士",
+				"description":"张轶于2010年9月加入实验室，他现在的研究方向是网络相关编码。",
+				"img":"dest/imgs/members/张轶.jpg",
+				"email":"yizhang@smail.hust.edu.cn",
+				"detail":""
+			},
+			{
+				"name":"刘秋明 博士",
+				"description":"刘秋明与2012年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/刘秋明.jpg",
+				"email":"195324758@qq.com",
+				"detail":""
+			},
+			{
+				"name":"杨鹏 博士",
+				"description":"杨鹏于2013年9月加入实验室，他现在的研究方向是无线网络容量。 ",
+				"img":"dest/imgs/members/杨鹏.jpg",
+				"email":"yangpeng@hust.edu.cn",
+				"detail":""
+			},
+			{
+				"name":"胡诗婷 硕士",
+				"description":"胡诗婷于2012年9月加入实验室，她现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/胡诗婷.jpg",
+				"email":"hushiting218@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"白光 硕士",
+				"description":"白光于2012年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/白光.jpg",
+				"email":"515064068@qq.com",
+				"detail":""
+			},
+			{
+				"name":"田菊红 硕士",
+				"description":"田菊红于2014年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/田菊红.jpg",
+				"email":"1543996442@qq.com",
+				"detail":""
+			},
+			{
+				"name":"孙京 硕士",
+				"description":"孙京于2014年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/孙京.jpg",
+				"email":"1550955221@qq.com",
+				"detail":""
+			},
+			{
+				"name":"黄淼森 硕士",
+				"description":"黄淼森于2014年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/黄淼森.jpg",
+				"email":"1539258336@qq.com",
+				"detail":""
+			},
+			{
+				"name":"冯银超 硕士",
+				"description":"冯银超于2014年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/冯银超.jpg",
+				"email":"1542963276@qq.com",
+				"detail":""
+			},
+			{
+				"name":"贺鹏飞 硕士",
+				"description":"贺鹏飞于2015年9月加入实验室，他现在的研究方向是无线网络容量。",
+				"img":"dest/imgs/members/贺鹏飞.jpg",
+				"email":"1227767012@qq.com",
+				"detail":""
+			},
+			{
+				"name":"易旭 硕士",
+				"description":"易旭于2015年9月加入实验室，他现在的研究方向是无线网络容量。 ",
+				"img":"dest/imgs/members/default.jpg",
+				"email":"2273848642@qq.com",
+				"detail":""
+			}
+		]
+	},
+	"media":{
+		"title":"多媒体组",
+		"members":[
+			{
+				"name":"周鹏 博士",
+				"description":"周鹏于2009年9月加入实验室，他现在的研究方向是网络编码。",
+				"img":"dest/imgs/members/周鹏.jpg",
+				"email":"betzhou@hotmail.com",
+				"detail":""
+			},
+			{
+				"name":"钟刚 博士",
+				"description":"钟刚于2008年9月加入实验室，他现在的研究方向是网络编码。",
+				"img":"dest/imgs/members/钟刚.jpg",
+				"email":"fhjianke@126.com",
+				"detail":""
+			},
+			{
+				"name":"向森 博士",
+				"description":"向森于2010年9月加入实验室，他现在的研究方向是网络编码。",
+				"img":"dest/imgs/members/向森.jpg",
+				"email":"xiangsen1989@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"祝常健 博士",
+				"description":"祝常健与2012年9月加入实验室，他现在的研究方向是3D采样。",
+				"img":"dest/imgs/members/祝常健.jpg",
+				"email":"276206020@qq.com",
+				"detail":""
+			},
+			{
+				"name":"王晟玮 博士",
+				"description":"王晟玮于2013年9月加入实验室，他现在的研究方向是视频编码。",
+				"img":"dest/imgs/members/王晟玮.jpg",
+				"email":"kadinwang@gmail.com",
+				"detail":""
+			},
+			{
+				"name":"汤显才 硕士",
+				"description":"汤显才于2012年9月加入实验室，他现在的研究方向是3D视频编码。",
+				"img":"dest/imgs/members/汤显才.jpg",
+				"email":"675604355@qq.com",
+				"detail":""
+			},
+			{
+				"name":"李旭 硕士",
+				"description":"李旭于2012年9月加入实验室，她现在的研究方向是3D视频编码。",
+				"img":"dest/imgs/members/李旭.jpg",
+				"email":"536772218@qq.com",
+				"detail":""
+			},
+			{
+				"name":"闫增强 硕士",
+				"description":"闫增强于2013年9月加入实验室，他现在的研究方向是3D模型重建和3D图像处理。",
+				"img":"dest/imgs/members/闫增强.jpg",
+				"email":"ZengqiangYan@hust.edu.cn ",
+				"detail":""
+			}
+		]
+	}
+}

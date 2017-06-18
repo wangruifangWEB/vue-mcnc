@@ -1,0 +1,41 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1493976881236'); /* IE9*/
+  src: url('iconfont.eot?t=1493976881236#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1493976881236') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1493976881236') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1493976881236#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mcnc-Home:before { content: "\e608"; }
+
+.mcnc-time:before { content: "\e623"; }
+
+.mcnc-right:before { content: "\e61d"; }
+
+.mcnc-member:before { content: "\e8bf"; }
+
+.mcnc-list:before { content: "\e658"; }
+
+.mcnc-research1:before { content: "\e72c"; }
+
+.mcnc-resource:before { content: "\e61c"; }
+
+.mcnc-detail:before { content: "\e743"; }
+
+.mcnc-zhong:before { content: "\e60e"; }
+
+.mcnc-ying:before { content: "\e60f"; }
+
+.mcnc-activity:before { content: "\e604"; }
+
+.mcnc-paper1:before { content: "\e600"; }
+

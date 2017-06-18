@@ -1,0 +1,17 @@
+{
+    "head": "Member",
+    "items": [
+        {
+            "name": "Guiding Teacher",
+            "link": "/member_en/zdls"
+        },
+        {
+            "name": " Laboratory",
+            "link": "/member_en/sys"
+        },
+        {
+            "name": "Graduate",
+            "link": "/member_en/bys"
+        }
+    ]
+}

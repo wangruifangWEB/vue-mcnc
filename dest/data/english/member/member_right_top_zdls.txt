@@ -1,0 +1,29 @@
+{
+    "head": "guiding teacher",
+    "items": [
+        {
+            "name": "Professor Li Yu",
+            "link": "yuli"
+        },
+        {
+            "name": "Professor Guangxi Zhu",
+            "link": "zhuguangxi"
+        },
+        {
+            "name": "Associate Professor Qiong Liu",
+            "link": "liuqiong"
+        },
+        {
+            "name": "Associate Professor Qimin CHENG",
+            "link": "chenqiming"
+        },
+        {
+            "name": "Associate Professor Jiangshan Zhang",
+            "link": "zhangjiangshan"
+        },
+        {
+            "name": "Lecturer  You Yang",
+            "link": "yangyou"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "yuli": {
+        "name": "Professor Li Yu",
+        "py": "yuli",
+        "description": "Prof. YU received her BS, MS, PhD degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 1992, 1995, 1999 respectively. She is now the dean of Division of Communication and Intelligent Network, WNLO. Her research focuses on Multimedia, Wireless Network, Video Coding/Decoding and many other related areas.",
+        "img": "dest/imgs/members/喻莉.jpg",
+        "honor": [
+            "In 2009,'Outstanding youth in Hubei province'",
+            "In 2008,'Hubei Province science and technology award technology invention award'",
+            "In 2007,'Information industry ten major technical invention'",
+            "In 2007,'China Standard Innovation Contribution Award First prize'"
+        ],
+        "project": [
+            {
+                "time": "2013-2017",
+                "name": "融合多深度的复杂场景多视点采样与重建的基础理论与关键技术",
+                "type": "国家自然科学基金重点项目"
+            },
+            {
+                "time": "2010-2011",
+                "name": "基于光电融合的移动多媒体通信系统",
+                "type": "省部级重点项目"
+            },
+            {
+                "time": "2010-2012",
+                "name": "基于随机网络演算的无线网络性能分析",
+                "type": "国家自然科学基金"
+            },
+            {
+                "time": "2009-2010",
+                "name": "具有独立可信机制的AdHoc网络可信路由研究",
+                "type": "国家863计划项目"
+            },
+            {
+                "time": "2006-2008",
+                "name": "基于共变正交和联合优化的多媒体网络性能预测模型",
+                "type": "国家自然科学基金"
+            }
+        ]
+    }
+}

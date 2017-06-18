@@ -1,0 +1,13 @@
+{
+    "head": "资源",
+    "items": [
+        {
+            "name": "讲座PPT",
+            "link": "ppt"
+        },
+        {
+            "name": "其他",
+            "link": "other"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head": "实验室活动",
+    "items": [
+        {
+            "content": "教师节2014",
+            "imgs": [
+                "dest/imgs/activity/2014_1.jpg"
+            ]
+        },
+        {
+            "content": "秋游2011",
+            "imgs": [
+                "dest/imgs/activity/2011_1.jpg",
+                "dest/imgs/activity/2011_2.jpg",
+                "dest/imgs/activity/2011_3.jpg"
+            ]
+        },
+        {
+            "content": "新年晚会2010",
+            "imgs": [
+                "dest/imgs/activity/2010_1.jpg",
+                "dest/imgs/activity/2010_2.jpg",
+                "dest/imgs/activity/2010_3.jpg"
+            ]
+        },
+        {
+            "content": "2009",
+            "imgs": [
+                "dest/imgs/activity/2009_1.jpg"
+            ]
+        },
+        {
+            "content": "喻老师生日 2008",
+            "imgs": [
+                "dest/imgs/activity/2008_2.jpg"
+            ]
+        },
+        {
+            "content": "教师节2008",
+            "imgs": [
+                "dest/imgs/activity/2008_1.png",
+                "dest/imgs/activity/2008_3.png"
+            ]
+        },
+        {
+            "content": "新年晚会2007",
+            "imgs": [
+                "dest/imgs/activity/2007_1.png",
+                "dest/imgs/activity/2007_2.png"
+            ]
+        }
+    ]
+}

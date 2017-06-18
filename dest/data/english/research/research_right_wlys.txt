@@ -1,0 +1,7 @@
+{
+    "title": "Network Calculus",
+    "content": "Network Calculus is theoretical framework that provide deep insights into flow problems encountered in networking. The foundation of network calculus lies in the Min-Plus algebra. We are currently doing research on random network caculus and its applications. Our research is sponsored by National  Natural Science Fundation of China(60972016) .",
+    "img": ["dest/imgs/research/网络演算.gif"],
+    "people_title": "Related Students",
+    "people": "Yun Bai(Ph.D),Jingjing Luo,Jie Zhang,Lie Jiang,Zilong Cheng,Hailin Liu."
+}

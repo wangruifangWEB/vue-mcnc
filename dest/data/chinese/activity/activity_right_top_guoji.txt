@@ -1,0 +1,29 @@
+{
+    "head": "国际会议",
+    "items": [
+        {
+            "name": "VTC fall2014",
+            "link": "vtc"
+        },
+        {
+            "name": "WCSP2013",
+            "link": "wcsp"
+        },
+        {
+            "name": "ICIP",
+            "link": "icip"
+        },
+        {
+            "name": "ICC",
+            "link": "icc"
+        },
+        {
+            "name": "Globecom",
+            "link": "globecom"
+        },
+        {
+            "name": "SMC",
+            "link": "smc"
+        }
+    ]
+}

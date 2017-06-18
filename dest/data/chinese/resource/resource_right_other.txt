@@ -1,0 +1,13 @@
+{
+    "title": "其他资源",
+    "content": [
+        {
+            "title": "硕士毕业流程",
+            "link": "http://www.baidu.com"
+        },
+        {
+            "title": "博士毕业流程",
+            "link": "dest/other/xx.ppt"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "title": "Network Code",
+    "content": "Network Coding is a special method for advancing the throughput of communication networks. Its core notion is to allow and encourage mixing of data at intermediate network nodes. We focus on basic network coding theory, random network coding and netowrk coding applications. Our research is sponsored by National  Natural Science Fundation of China (60872010) .",
+    "img": ["dest/imgs/research/网络编码.gif"],
+    "people_title": "Related Students",
+    "people": "Wei Wang(Ph.D),Wei Cheng,Fei Xiong."
+}

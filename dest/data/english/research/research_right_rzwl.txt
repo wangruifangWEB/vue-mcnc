@@ -1,0 +1,7 @@
+{
+    "title": "Cognitive Network",
+    "content": "Cognitive network is the trend of the next generations of digital   communication. It can be seen as a combination of adaptive radio system and learning feature. We are currently doing research on cooperation strategy and spectrum assignment. Our research is sponsored by Fund  of National Laboratory (P080010).",
+    "img": ["dest/imgs/research/认知网络.gif"],
+    "people_title": "Related Students",
+    "people": "Cong Liu(Ph.D),Wenyu Hu,Haibo CHEN."
+}

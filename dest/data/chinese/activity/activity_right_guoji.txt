@@ -1,0 +1,44 @@
+{
+    "vtc": {
+        "content": "白光同学的论文——“3D非均匀网络的可行吞吐容量”被VTC FALL 2014收录，会议于9月13-17日在加拿大温哥华举行。合作作者刘秋明同学前往加拿大参加了该会议并在会上就论文内容进行了汇报。会后刘秋明同学与众多海外学者就该领域的研究方向以及未来的工作展望交换了意见。",
+        "imgs": [
+            "dest/imgs/activity/vtc.jpg",
+            "dest/imgs/activity/vtc2.jpg"
+        ]
+    },
+    "wcsp": {
+        "content": "胡诗婷的文章\"Throughput Capacity of Wireless Networks with Social Features\"被 WCSP 2013收录.她在会上作了口头汇报。在此会期间喻莉教授和P.R. Kumar(IEEE Fellow) 进行了学术研究交流。",
+        "imgs": [
+            "dest/imgs/activity/wcsp1.jpg",
+            "dest/imgs/activity/wcsp2.jpg"
+        ]
+    },
+    "icip": {
+        "content": "周鹏的论文“The Non-Lambertian Reflection in Plenoptic Sampling”被ICIP2013接收，他与喻莉教授同往澳大利亚墨尔本参加会议。会上，他通过海报展示自己的成果，并与众多海内外学者就相关领域进行了学术探讨。 回国后，周鹏在实验室会上就会议内容与同学进行了交流，并介绍了相关领域的研究热点以及一些可行的想法。",
+        "imgs": [
+            "dest/imgs/activity/icip1.jpg",
+            "dest/imgs/activity/icip2.jpg"
+        ]
+    },
+    "icc": {
+        "content": "罗晶晶的论文“Throughput and Delay of Mobile Hybrid Wireless Networks Under K Length Routing Policy”被ICC2013接收。她于四月前往匈牙利参加会议并在会上就论文内容进行了汇报。会中与多名教授进行了交流，探讨了未来的研究方向。",
+        "imgs": [
+            "dest/imgs/activity/icc.jpg"
+        ]
+    },
+    "globecom": {
+        "content": "12月2日，喻莉教授与程伟前往美国迈阿密参加会议Globecom 2010。他们在洛杉矶待了两天并前往加州理工学院，南加州大学，加州大学洛杉矶分校访问。在南加州大学，他们参加了C.C. Jay Kuo's 教授实验室的例会并与之讨论了未来的合作事宜。 Blobecom由6号到10号举行，在会议期间，他们与众多海外学者在相关领域交换意见。7号，程伟就发表的论文\"Trusted network coding in wireless network\"进行了演讲。事后他说，这次会议让他了解到了通信领域的研究趋势，以及提供了与知名学者交流的机会。",
+        "imgs": [
+            "dest/imgs/activity/globecom1.jpg",
+            "dest/imgs/activity/globecom2.jpg",
+            "dest/imgs/activity/globecom3.jpg",
+            "dest/imgs/activity/globecom4.jpg"
+        ]
+    },
+    "smc": {
+        "content": "留学生Doudou Samb的论文Efficient Outage Optimization based on Selection between fixed Relaying Protocols for Wireless Cooperative Networks参与了IEEE SMC Society学生分支举办的论文竞赛。他的论文被选中在竞赛中进行答辩。他本人表示非常荣幸被选中参与这样的活动。",
+        "imgs": [
+            "dest/imgs/activity/smc.jpg"
+        ]
+    }
+}
